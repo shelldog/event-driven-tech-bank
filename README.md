@@ -18,4 +18,10 @@ Clone this project:
 $ git clone https://github.com/shelldog/event-driven-tech-bank.git
 ```
 
+Run the utilities with Docker:
+
+```bash
+$ docker-compose -f docker-compose.yaml
+```
+
 Open the project with IntelliJ and run as usual
